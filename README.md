@@ -19,6 +19,6 @@
 - Can read each blog seperately in new pages
 
 ## Screenshots
-
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FBlog%20Website%202.png?alt=media&token=9754024e-80ff-45d5-81a3-059d48163a6f)
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FBlog%20Website%201.png?alt=media&token=0e535169-6a92-408f-b3bd-f1dad75cb829)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/github-resume-others.appspot.com/o/GitHub%2FBlog%20Website%202.png?alt=media&token=9754024e-80ff-45d5-81a3-059d48163a6f)
+
