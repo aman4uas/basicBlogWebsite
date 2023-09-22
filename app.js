@@ -16,7 +16,7 @@ const Post = mongoose.model('Post', postSchema);
 
 const homeStartingContent = "Welcome to our user-friendly blog website! Here, you can easily create and explore a diverse range of blogs, catering to your unique interests. Whether you're a writer or a reader, our platform provides a space for sharing and discovering captivating content across various subjects.";
 const aboutContent = "Discover & Create. Welcome to our Blog Website! We're your destination for diverse blogs. Whether you're a reader or a writer, join our community to explore, learn, and share. Start your blogging journey or dive into captivating reads today. Your story matters here."
-const contactContent = "We're here to listen and assist you. If you have any questions, suggestions, or just want to connect, please don't hesitate to reach out. Your feedback is valuable to us.<br />Email: xyz@company.com <br />Address: XYZ, India <br /><br />Thank you for being a part of our community."
+const contactContent = "We're here to listen and assist you. If you have any questions, suggestions, or just want to connect, please don't hesitate to reach out. Your feedback is valuable to us. You can mail us at : xyz@company.com. Thank you for being a part of our community!"
 const app = express();
 
 app.set('view engine', 'ejs');
