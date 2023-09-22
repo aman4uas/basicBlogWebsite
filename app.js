@@ -1,10 +1,12 @@
+require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://admin-aman:adminaman@cluster0.lry5ryo.mongodb.net/');
+mongoose.connect(process.env.MONGODB_URL);
+
 
 const postSchema = {
   title: String,
